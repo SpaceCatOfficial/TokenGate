@@ -27,6 +27,7 @@ const unlockables: Unlockable[] = [
     ], // You need to own 'GM #1' to unlock this.
       // SCR - Wanderer Class Scout Ship
   },
+  /*
   {
     cid: "bafybeien3riturkp3dz5weivdeyvwjn42zb5ih477tosaphsozccaqxmve", // MP4 video example
     nftId: [
@@ -34,6 +35,7 @@ const unlockables: Unlockable[] = [
     ], // You need to own 'GM #2' to unlock this.
       // SCR - Navigator - Helmet
   },
+  */
     {
     cid: "bafybeien3riturkp3dz5weivdeyvwjn42zb5ih477tosaphsozccaqxmve", // MP4 video example
     nftId: [
