@@ -35,15 +35,15 @@ const unlockables: Unlockable[] = [
     ], // You need to own 'GM #2' to unlock this.
       // SCR - Navigator - Helmet
   },
- /*
+
     {
-    cid: "bafybeien3riturkp3dz5weivdeyvwjn42zb5ih477tosaphsozccaqxmve", // MP4 video example
+    cid: "bafybeif3blixnc3tynvkdcv2yrtt2pokqfwq7j2dtfy65oeue3pp2he6ge", // MP4 video example
     nftId: [
-      "0x8fa49c7426c2af6ca163938734d3937b015b6daf3e3e4c8df289957bb6dfcf3a",
+      "0xd0614a56bc089a08c43d3e46d9f812d9fbe092c33be02ac5148094b74204d577",
     ], // You need to own 'GM #2' to unlock this.
-      // SCR - Marine - Helmet
+      // SCR - Zenith - Jetpack
   },
-  */
+  
  /* {
     cid: "bafybeihhx5v3saq3b7n55ub5q3atuw2udbqc5ictkv2ih7vd3hxptu22nu", // Web game example
     nftId: [
