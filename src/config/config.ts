@@ -20,6 +20,10 @@ Here are two examples:
 *********************************************************/
 
 const unlockables: Unlockable[] = [
+ 
+  ////////////////////////////// SCR Starships ////////////////////////////////
+
+
   {
     cid: "bafybeidmdqagx4tmrrtq5xwyh36iiwb4zwmm2ru24nv2qbudt4awljv6hq", // HTML blog example
     nftId: [
@@ -27,17 +31,81 @@ const unlockables: Unlockable[] = [
     ], // You need to own 'GM #1' to unlock this.
       // SCR - Wanderer Class Scout Ship
   },
+/*
+  {
+    cid: "xxx", // HTML blog example
+    nftId: [
+      "0xfe8c9d10bb65b69906c548652a275f742a8e122f934fd7bbcd3ef1788e4793de",
+    ], // You need to own 'GM #1' to unlock this.
+      // SCR - Event Purr-izon Class Research Vessel
+  },
+*/
+  ////////////////////////////// SCR Helmets ////////////////////////////////
   
   {
-    cid: "bafybeien3riturkp3dz5weivdeyvwjn42zb5ih477tosaphsozccaqxmve", // MP4 video example
+    cid: "bafybeieyyjgfirn4ctgglwcyb3briyhnu2v2z2jfxsgwzzprrpnxgpsfja", // MP4 video example
+    nftId: [
+      "0x6e9f8f2b96c7d7042a6c8cd3c59ee0748cb374988115360f23e1907cd0f55035",
+    ], // You need to own 'GM #2' to unlock this.
+      // SCR - Explorer - Helmet
+  },
+
+  {
+    cid: "bafybeib2xaznbqspj5rkxqm6bjcvlk5kp423y3jexehuabkdsgjs54w53y", // MP4 video example
     nftId: [
       "0xfded9278d5861accc474f723b92444189b9cd56b1368084d712b6030a8cbc4fc",
     ], // You need to own 'GM #2' to unlock this.
       // SCR - Navigator - Helmet
   },
 
-    {
-    cid: "bafybeif3blixnc3tynvkdcv2yrtt2pokqfwq7j2dtfy65oeue3pp2he6ge", // MP4 video example
+  {
+    cid: "bafybeibajsozqqkmwthtekbxhhpsyhuuwv6s4aqxszjzgghkw42jaq773u", // MP4 video example
+    nftId: [
+      "0x4ad500e7b0b70cd32f535031d0da28f3f942fcc6788cde768e33cd2bc9c278ae",
+    ], // You need to own 'GM #2' to unlock this.
+      // SCR - Pilot - Helmet
+  },
+
+  {
+    cid: "bafybeibhl7w3clfovbdylyhgpypr4fhaw2fbr6s3xsfugmzrhxdao7bybu", // MP4 video example
+    nftId: [
+      "0x6b074743823c6038b7c9a235f59d86d07d2f9ffd7604fa5eeb9f3b234139f7b3",
+    ], // You need to own 'GM #2' to unlock this.
+      // SCR - Engineer - Helmet
+  },
+
+  {
+    cid: "bafybeifq3hkiqstwgtrg4ypejafnueohirmwxlkegabqlc7jocmp7ytkee", // MP4 video example
+    nftId: [
+      "0x9ba6153845ecc7ad676fb59b8ef2833bc6487d89c043ea532801b5eaf1358f49",
+    ], // You need to own 'GM #2' to unlock this.
+      // SCR - Marine - Helmet
+  },
+
+  {
+    cid: "bafybeiapg6cle5ppuhrtfgvpu4yfm3rpqp3qf2orc2f3auytgetu5tjbgm", // MP4 video example
+    nftId: [
+      "0x7857223f45567d65195520226b1370cdbf0449b9922986c44c3f830157a989af",
+    ], // You need to own 'GM #2' to unlock this.
+      // SCR - Lucky - Helmet
+  },
+
+  {
+    cid: "bafybeien5t6jczoys4ggywgzpts33bwh3quygqgummzrhnfb33oph3spga", // MP4 video example
+    nftId: [
+      "0x5479eeb43f5b5a8a31650ec4933fb9e9875759746c826e392cffb60061114196",
+    ], // You need to own 'GM #2' to unlock this.
+      // SCR - Commander - Helmet
+  },
+
+
+  ////////////////////////////// SCR Gloves ////////////////////////////////
+
+  ////////////////////////////// SCR Boots ////////////////////////////////
+
+
+  {
+    cid: "bafybeihmtqdrdpg6qi7256jkppyvmofb5ivhhq3qjuafaewojdc2mpls5y", // MP4 video example
     nftId: [
       "0xd0614a56bc089a08c43d3e46d9f812d9fbe092c33be02ac5148094b74204d577",
     ], // You need to own 'GM #2' to unlock this.
