@@ -77,7 +77,7 @@ const unlockables: Unlockable[] = [
   {
     cid: "bafybeifq3hkiqstwgtrg4ypejafnueohirmwxlkegabqlc7jocmp7ytkee", // MP4 video example
     nftId: [
-      "0x9ba6153845ecc7ad676fb59b8ef2833bc6487d89c043ea532801b5eaf1358f49",
+      "0x8fa49c7426c2af6ca163938734d3937b015b6daf3e3e4c8df289957bb6dfcf3a",
     ], // You need to own 'GM #2' to unlock this.
       // SCR - Marine - Helmet
   },
@@ -85,7 +85,7 @@ const unlockables: Unlockable[] = [
   {
     cid: "bafybeiapg6cle5ppuhrtfgvpu4yfm3rpqp3qf2orc2f3auytgetu5tjbgm", // MP4 video example
     nftId: [
-      "0x7857223f45567d65195520226b1370cdbf0449b9922986c44c3f830157a989af",
+      "0xc5ddb728c674e3b0ef29e47f305ff064525911a16224033566c139efe5ee11f5",
     ], // You need to own 'GM #2' to unlock this.
       // SCR - Lucky - Helmet
   },
@@ -93,7 +93,7 @@ const unlockables: Unlockable[] = [
   {
     cid: "bafybeien5t6jczoys4ggywgzpts33bwh3quygqgummzrhnfb33oph3spga", // MP4 video example
     nftId: [
-      "0x5479eeb43f5b5a8a31650ec4933fb9e9875759746c826e392cffb60061114196",
+      "0x3d613bc01c313de86b2d553e26b863c76b859238621026dfbe9ee904a015cacd",
     ], // You need to own 'GM #2' to unlock this.
       // SCR - Commander - Helmet
   },
